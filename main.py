@@ -90,3 +90,5 @@ list_A = [2, 3, 4]
 list_B = [5, 6, 7]
 k = list(map(lambda x: list_B[0] - list_A [0]+ x,  list_A))
 print(k)
+list_1 = [1,2,3,5,7,9]
+list_2 = [2,3,5,6,7,8]
